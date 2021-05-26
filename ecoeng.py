@@ -1,7 +1,7 @@
 def costo_inicial():
     
     ci = ('X')
-    menu1 = """
+    menu = """
     Valor de salvamento en función del Costo Inicial:
     1- Sí
     2- No
