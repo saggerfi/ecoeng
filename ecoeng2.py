@@ -9,7 +9,8 @@ class Menu:
 
 
 def costo_inicial():
-    ci = Menu('')
+    ci = Menu('Costo Inicial')
+    ci.despliega()
 
 
 def valor_salvamento():
